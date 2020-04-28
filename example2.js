@@ -1,1 +1,2 @@
-console.log('example2.js');
+console.log('thi is  only dev');
+console.log('thi is  only dev');
